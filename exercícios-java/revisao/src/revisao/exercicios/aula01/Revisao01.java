@@ -25,5 +25,7 @@ public class Revisao01 {
 		
 		//%d inteiro, %f, %g double e float, %c caractere, %s string
 		System.out.printf("Dia do mês %d",diaDoMes);
+		
+		System.out.println("Olá Git!");
 	}
 }
